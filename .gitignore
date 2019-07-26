@@ -1,0 +1,47 @@
+# ==============================================================================
+#                               Editors & IDEs
+
+# gedit: backup files
+*~
+
+# VIM: swap files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+
+# VIM: session
+Session.vim
+
+# VIM: netrw.vim: Network oriented reading, writing, browsing (eg: ftp scp)
+.netrwhist
+
+# ==============================================================================
+#                               Operationg Systems
+
+# Folder view configuration files
+*.DS_store
+*.DS_store?
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# ==============================================================================
+#                                 This Project
+
+# Working directory
+work/
+
+# SVN
+.svn/
+
+# Xilinx Vivado Temp Files
+NA/
+.Xil/
+vivado*.jou
+vivado*.log
+vivado_pid*.str
