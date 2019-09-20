@@ -21,7 +21,7 @@
 int main() {
     int status;
     xil_printf("*I* <Stereo Vision System>\n");
-    xil_printf("*I*     Created by Haozhe Zhu (July, 2019)\n\n");
+    
 
     xil_printf("*I* === === Configuration === ===\n");
 
