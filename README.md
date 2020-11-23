@@ -50,8 +50,8 @@ Due to the maximum path length limitation on Windows (<260), do NOT specify a ve
 The default building path is `\$REPO_PATH/work/\$PROJ_NAME`.
 
 ## Contributors
-- Haozhe Zhu ([@zhutmost](https://github.com/zhutmost))
 - Jinglei Yang ([@MsYangjl](https://github.com/MsYangjl))
+- Haozhe Zhu ([@zhutmost](https://github.com/zhutmost))
 - Liyu Lin ([@lylinsh](https://github.com/lylinsh))
 - Yinfei Pan
 
