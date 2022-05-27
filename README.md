@@ -51,6 +51,7 @@ The default building path is `\$REPO_PATH/work/\$PROJ_NAME`.
 
 ### Citation
 if this paper is useful for you, please quote as below.
+
 Gang Wu, Jinglei Yang, Hao Yang: Real-time low-power binocular stereo vision based on FPGA. J. Real Time Image Process. 19(1): 29-39 (2022)
 
 
