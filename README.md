@@ -49,6 +49,11 @@ source "$REPO_PATH/hw/make.tcl" -notrace
 Due to the maximum path length limitation on Windows (<260), do NOT specify a very long project name.
 The default building path is `\$REPO_PATH/work/\$PROJ_NAME`.
 
+### Citation
+if this paper is useful for you, please quote as below.
+Gang Wu, Jinglei Yang, Hao Yang: Real-time low-power binocular stereo vision based on FPGA. J. Real Time Image Process. 19(1): 29-39 (2022)
+
+
 ### References
 
 1.Adams, J.K., Thomas, D.E.: The design of mixed hardware/software systems. In: Proceedings of the 33rd annual Design Automation Conference (DAC’96). Association for Computing Machinery, New York, NY, USA, pp515–520. (1996) https://doi.org/10.1145/240518.240616
